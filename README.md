@@ -1,11 +1,3 @@
-## <div align="center"> Hi ! I'm Tobin</div>
-
-
-
-
-</br>
-
-
 ## 🏋🏼‍♀️ Skills
 </br>
 <div align="center">
