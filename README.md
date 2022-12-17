@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
- <img src="https://img.shields.io/badge/Axios-DB7093?style=for-the-badge&logo=Axios&logoColor=red">
+ <img src="https://img.shields.io/badge/Axios-DB7093?style=for-the-badge&logo=Axios&logoColor=blue">
 
   
   
